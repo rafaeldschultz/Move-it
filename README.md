@@ -12,14 +12,15 @@
 
 <!--ts-->
 
-- [Sobre](#sobre)
-- [Como Usar](#comousar)
-  - [Pré-Requisitos](#Pré-Requisitos)
-  - [Executando o Projeto](#ExecutandooProjeto)
-
+- [Sobre](#-sobre)
+- [Como Usar](#-como-usar)
+  - [Pré-Requisitos](#-pré-requisitos)
+  - [Executando o Projeto](#-executando-o-projeto)
+- [Tecnologias](#-tecnologias)
+- [Contribuição](#-contribuição)
 <!--te-->
 
-## 📕 Sobre
+## 📕 **Sobre**
 
 **Move It** é uma uma ferramenta desenvolvida durante a [NLW #4](https://nextlevelweek.com/inscricao/4) com o objetivo de introduzir exercícios físicos em intervalos fixos durante a jornada de trabalho, de modo a contribuir para a saúde do usuário.
 
@@ -85,7 +86,6 @@ npm run dev
 
 - [Rocketseat](https://rocketseat.com.br/) ;
 
-<br>
 <br>
 
 ### Feito com ❤️ por [Rafael Dalonso Schultz](https://github.com/rafaeldschultz).
