@@ -12,10 +12,10 @@
 
 <!--ts-->
 
-    * [Sobre](#Sobre)
-    * [Como Usar](#Como Usar)
-        * [Pré-Requisitos](#Pré-Requisitos)
-        * [Executando o Projeto](#Executando o Projeto)
+- [Sobre](#Sobre)
+- [Como Usar](#ComoUsar)
+  - [Pré-Requisitos](#Pré-Requisitos)
+  - [Executando o Projeto](#ExecutandooProjeto)
 
 <!--te-->
 
