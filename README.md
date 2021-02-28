@@ -12,8 +12,8 @@
 
 <!--ts-->
 
-- [Sobre](#Sobre)
-- [Como Usar](#ComoUsar)
+- [Sobre](#sobre)
+- [Como Usar](#comousar)
   - [Pré-Requisitos](#Pré-Requisitos)
   - [Executando o Projeto](#ExecutandooProjeto)
 
