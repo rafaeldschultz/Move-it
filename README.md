@@ -1,24 +1,12 @@
 # Move It
 
-## 🤸‍♂️ **Move It**, uma ferramenta de foco e alongamentos utilizando de Pomodoro.
+## 🤸‍♂️ **Move It**, uma ferramenta de foco e alongamento físico utilizando da técnica Pomodoro.
 
-> Move It foi desenvolvida durante a [NLW #4](https://nextlevelweek.com/inscricao/4), com o obtivo do aprendizado dos principais conceitos de React.
+> Move It foi desenvolvida durante a [NLW #4](https://nextlevelweek.com/inscricao/4), com o objetivo de aprendizado dos principais conceitos de React.
 
 <br/>
 
 ![Yarn](https://img.shields.io/static/v1?label=yarn&message=v1.22.10&color=blue) ![Node-js](https://img.shields.io/static/v1?label=node-js&message=v14.15.5&color=blue) ![Next-js](https://img.shields.io/static/v1?label=next-js&message=v10.0.7&color=blue)
-
-## **📌 Tabela de Conteúdos**
-
-<!--ts-->
-
-- [Sobre](#-sobre)
-- [Como Usar](#-como-usar)
-  - [Pré-Requisitos](#-pré-requisitos)
-  - [Executando o Projeto](#-executando-o-projeto)
-- [Tecnologias](#-tecnologias)
-- [Contribuição](#-contribuição)
-<!--te-->
 
 ## 📕 **Sobre**
 
@@ -27,6 +15,20 @@
 Através da ferramenta, é possível realizar ciclos de trabalho utilizando da famosa técnica de gerenciamento de tempo [Pomodoro](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro).
 
 A cada _25 minutos_, **Move It** sugere uma atividade física para o usuário que pode escolher realizá-la ou não. Caso realize, basta indicar à ferramenta, que lhe retribuirá com uma determinada quantidade de experiência.
+
+## **📌 Tabela de Conteúdos**
+
+<!--ts-->
+
+- [Sobre](#-sobre)
+- [Tabela de Conteudos](#-tabela-de-conteúdos)
+- [Como Usar](#-como-usar)
+  - [Pré-Requisitos](#-pré-requisitos)
+  - [Executando o Projeto](#-executando-o-projeto)
+- [Tecnologias](#-tecnologias)
+- [Contribuição](#-contribuição)
+
+<!--te-->
 
 ## ✅ **Como Usar**
 
@@ -81,6 +83,8 @@ npm run dev
 - [React](https://pt-br.reactjs.org/) ;
 - [TypeScript](https://www.typescriptlang.org/) ;
 - [Next.js](https://nextjs.org/);
+
+## 👀 **Demonstração**
 
 ## **👥 Contribuição**
 
