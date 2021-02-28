@@ -19,7 +19,7 @@
 
 <!--te-->
 
-## 📕 **Sobre**
+## 📕 Sobre
 
 **Move It** é uma uma ferramenta desenvolvida durante a [NLW #4](https://nextlevelweek.com/inscricao/4) com o objetivo de introduzir exercícios físicos em intervalos fixos durante a jornada de trabalho, de modo a contribuir para a saúde do usuário.
 
