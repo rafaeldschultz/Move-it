@@ -6,7 +6,7 @@
 
 <br/>
 
-![Yarn](https://img.shields.io/static/v1?label=yarn&message=v1.22.10&color=blue) ![Node-js](https://img.shields.io/static/v1?label=node-js&message=v14.15.5&color=blue) ![Next-js](https://img.shields.io/static/v1?label=next-js&message=v10.0.7&color=blue)
+[![Yarn](https://img.shields.io/static/v1?label=yarn&message=v1.22.10&color=blue)](https://yarnpkg.com/) [![Node-js](https://img.shields.io/static/v1?label=node-js&message=v14.15.5&color=blue)](https://nodejs.org/) [![Next-js](https://img.shields.io/static/v1?label=next-js&message=v10.0.7&color=blue)](https://nextjs.org/)
 
 ## 📕 **Sobre**
 
