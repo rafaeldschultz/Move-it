@@ -26,6 +26,7 @@ A cada _25 minutos_, **Move It** sugere uma atividade física para o usuário qu
   - [Pré-Requisitos](#-pré-requisitos)
   - [Executando o Projeto](#-executando-o-projeto)
 - [Tecnologias](#-tecnologias)
+- [Demonstração](#-demonstração)
 - [Contribuição](#-contribuição)
 
 <!--te-->
@@ -85,6 +86,8 @@ npm run dev
 - [Next.js](https://nextjs.org/);
 
 ## 👀 **Demonstração**
+
+Disponível clicando [AQUI](https://moveit-five-navy.vercel.app/).
 
 ## **👥 Contribuição**
 
